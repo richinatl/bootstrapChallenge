@@ -4,7 +4,8 @@ The point of this exercise was to intergrate bootstrap into a project and overri
 
 <br>
 
-![bootstrapChallenge](https://user-images.githubusercontent.com/95508564/199502189-37c24780-0909-47e5-8097-be412aaa3509.png)
+![bootstrapChallenge2](https://user-images.githubusercontent.com/95508564/199512711-15430758-b7c1-4ddd-b8a0-be55443ee4cb.png)
+
 
 <br>
 
