@@ -111,7 +111,16 @@ body > div.embed-fluid.embed-responsive-16by9 {
 	justify-items: center;
 }
 
-body > footer > div > div:nth-child(2) {
+/* body > footer > div > div:nth-child(2) {
 	display: flex;
 	justify-content: space-around;
+} */
+
+.footer__li {
+	margin-left: 0.3rem;
+}
+
+a:hover {
+	text-decoration: none;
+	transition: color 0.5s;
 }
