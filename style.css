@@ -101,5 +101,17 @@ MEDIA QUERIES
 }
 
 .container-fluid {
-	margin-top: 5rem !important;
+	margin-top: 2rem !important;
+}
+
+body > div.embed-fluid.embed-responsive-16by9 {
+	align-self: center;
+	display: flex;
+	justify-content: center;
+	justify-items: center;
+}
+
+body > footer > div > div:nth-child(2) {
+	display: flex;
+	justify-content: space-around;
 }
