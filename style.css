@@ -124,3 +124,9 @@ a:hover {
 	text-decoration: none;
 	transition: color 0.5s;
 }
+
+h1 {
+	font-size: 4rem !important;
+	font-weight: 600 !important;
+	padding-top: 2rem !important;
+}
