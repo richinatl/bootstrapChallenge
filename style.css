@@ -69,7 +69,6 @@ footer {
 footer ul li {
 	display: inline-block;
 	list-style: none;
-	float: right;
 	
 }
 
@@ -99,4 +98,8 @@ MEDIA QUERIES
 
 .jumbotron h1 {
     color: orange;
+}
+
+.container-fluid {
+	margin-top: 5rem !important;
 }
